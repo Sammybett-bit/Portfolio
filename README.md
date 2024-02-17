@@ -1,8 +1,8 @@
 # JS Portfolio Website
 
-[🔗Live Demo🔗](https://sajib.vercel.app/)
+[🔗Live Demo🔗](https://portfolio-gdndmdnl9-sammybett-bit.vercel.app/)
 
-![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
+![Protfolio Website](src/sam.png)
 
 <div align="center">
 
