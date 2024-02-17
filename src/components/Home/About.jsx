@@ -34,7 +34,7 @@ const About = () => {
                   <br />I am proficient in
                     <b className="yellow"> Javascript, </b>
                     as well as have knowledge in programming languages such as C, Java, Python,
-                  <b className="yellow"> MySQL, and Solidity.</b>
+                  <b className="yellow"> MySQL</b>
                   <br />
                   <br />
                   I have a passion for working
